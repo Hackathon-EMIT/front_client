@@ -78,7 +78,7 @@ export function OrderConfirmedPage() {
       <div>
         <TitleText size="l">Oui ! Commande confirmée 😎</TitleText>
         <RegularText size="l" color="subtitle">
-          Il ne reste plus qu'à attendre et bientôt le café arrivera chez vous
+          Il ne reste plus qu'à attendre et bientôt le vin arrivera chez vous
         </RegularText>
       </div>
 
